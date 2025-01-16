@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1737024785038
+current_stage: None
+description: ''
+last_updated_timestamp: 1737024785038
+name: Stroke Prediction Model
+run_id: cedc685780694cc58c77f9fbcef176e6
+run_link: ''
+source: mlflow-artifacts:/998142890160334519/cedc685780694cc58c77f9fbcef176e6/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/998142890160334519/cedc685780694cc58c77f9fbcef176e6/artifacts/model
+user_id: null
+version: 1
